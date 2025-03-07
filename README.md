@@ -19,3 +19,6 @@ Note: int *p; is pointed the some garbage value . This is a bad practic instead 
 --> Intrenal Array formula when I access the value of array  arr[i] = *(arr+i)  or i[arr] = *(i+arr)
 
 --> Address of array can not re-assign 
+
+--> What is Reference Variable?
+ans--> Same Memory but different variable name 
