@@ -40,3 +40,6 @@ variable              |
 
 --> using new ensures that memory is allocated on the heap for the object, and the stack stores a reference to it. 🚀
 --> In Static Stack Memory memory release automatically but in heap memory You need to release the Memory Manually.
+
+--> Macro: A piece of code in a program that is replaced by value of macro
+--> Inline Functions used to Reduce the functions calls overhead
