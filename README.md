@@ -43,3 +43,6 @@ variable              |
 
 --> Macro: A piece of code in a program that is replaced by value of macro
 --> Inline Functions used to Reduce the functions calls overhead
+
+H.W.:
+--> Solve the Problem of Subsets using bits and debugg it
